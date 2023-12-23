@@ -1,0 +1,46 @@
+#!name=Telegram 电报
+#!desc=Telegram 电报
+
+[Rule]
+# Telegram 电报
+## referer: https://core.telegram.org/mtproto/transports#uri-format
+## Telegram DC1
+DOMAIN,pluto.web.telegram.org,US // HTTP endpoints
+DOMAIN,pluto-1.web.telegram.org,US // HTTP endpoints
+DOMAIN,kws1.web.telegram.org,US // WSS endpoints
+DOMAIN,kws1-1.web.telegram.org,US // WSS endpoints
+DOMAIN,zws1.web.telegram.org,US // WSS endpoints
+DOMAIN,zws1-1.web.telegram.org,US // WSS endpoints
+IP-ASN,59930,US,no-resolve // Data Center (🇺🇸US & 🇧🇷BR)
+## Telegram DC2
+DOMAIN,venus.web.telegram.org,SG // HTTP endpoints
+DOMAIN,venus-1.web.telegram.org,SG // HTTP endpoints
+DOMAIN,kws2.web.telegram.org,SG // WSS endpoints
+DOMAIN,kws2-1.web.telegram.org,SG // WSS endpoints
+DOMAIN,zws2.web.telegram.org,SG // WSS endpoints
+DOMAIN,zws2-1.web.telegram.org,SG // WSS endpoints
+IP-ASN,44907,SG,no-resolve // Data Center (🇮🇳IN ➜ 🇪🇺EU)
+## Telegram DC3
+DOMAIN,aurora.web.telegram.org,US // HTTP endpoints
+DOMAIN,aurora-1.web.telegram.org,US // HTTP endpoints
+DOMAIN,kws3.web.telegram.org,US // WSS endpoints
+DOMAIN,kws3-1.web.telegram.org,US // WSS endpoints
+DOMAIN,zws3.web.telegram.org,US // WSS endpoints
+DOMAIN,zws3-1.web.telegram.org,US // WSS endpoints
+IP-ASN,211157,US,no-resolve // Data Center (🇷🇺RU ➜ 🇺🇸US)
+## Telegram DC4
+DOMAIN,vesta.web.telegram.org,SG // HTTP endpoints
+DOMAIN,vesta-1.web.telegram.org,SG // HTTP endpoints
+DOMAIN,kws4.web.telegram.org,SG // WSS endpoints
+DOMAIN,kws4-1.web.telegram.org,SG // WSS endpoints
+DOMAIN,zws4.web.telegram.org,SG // WSS endpoints
+DOMAIN,zws4-1.web.telegram.org,SG // WSS endpoints
+IP-ASN,62041,SG,no-resolve // Data Center (🇪🇺EU)
+## Telegram DC5
+DOMAIN,flora.web.telegram.org,SG // HTTP endpoints
+DOMAIN,flora-1.web.telegram.org,SG // HTTP endpoints
+DOMAIN,kws5.web.telegram.org,SG // WSS endpoints
+DOMAIN,kws5-1.web.telegram.org,SG // WSS endpoints
+DOMAIN,zws5.web.telegram.org,SG // WSS endpoints
+DOMAIN,zws5-1.web.telegram.org,SG // WSS endpoints
+IP-ASN,62014,SG,no-resolve // Data Center (🇸🇬SG)
