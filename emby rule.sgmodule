@@ -5,8 +5,8 @@
 [Rule]
 # Emby start
 # StarCat
-DOMAIN,cdsalw2lw.catlinks.co.uk,DIRECT // Added for: cdsalw2lw.catlinks.co.uk:443
-DOMAIN,flare.catlinks.co.uk,DIRECT // Added for: flare.catlinks.co.uk:443
+DOMAIN,cdsalw2lw.catlinks.co.uk,Emby US // Added for: cdsalw2lw.catlinks.co.uk:443
+DOMAIN,flare.catlinks.co.uk,Emby US // Added for: flare.catlinks.co.uk:443
 
 # 野兽
 DOMAIN,emby-us-v4.mius.uk,Emby US // Added for: emby-us-v4.mius.uk:8443
@@ -70,11 +70,11 @@ IP-CIDR,167.235.116.53/32,Emby US,no-resolve // Lyrebird-琴鸟
 DOMAIN,stream-direct.synn.cc,DIRECT // Added for: stream-direct.synn.cc:443
 DOMAIN,stream.synn.cc,NTRRR SYN // Added for: stream.synn.cc:443
 DOMAIN,stream-zz.synn.cc,NTRRR SYN // Added for: stream-zz.synn.cc:443
-DOMAIN-SUFFIX,ntrrr.top,Emby US // NTRRR
+DOMAIN-SUFFIX,ntrrr.top,Emby JP // NTRRR
 
 # Marmot
-DOMAIN,v.20120714.xyz,Emby US // Marmot_Emby
-DOMAIN,if.20120714.xyz,Emby US // Added for: if.20120714.xyz:443
+DOMAIN,v.20120714.xyz,Emby JP // Marmot_Emby
+DOMAIN,if.20120714.xyz,Emby JP // Added for: if.20120714.xyz:443
 
 # 水母
 DOMAIN,ws1.jellyfin.asia,DIRECT // 水母
