@@ -1,24 +1,123 @@
+# Emby start
+
+# 飞跃彩虹
+IP-CIDR,152.53.19.231/32,no-resolve // Added for: http://152.53.19.231:8096/System/Info
+
+# cherrttv
+DOMAIN,cherrytv.one
+
+# StarCat
+DOMAIN,cdsalw2lw.catlinks.co.uk
+DOMAIN,flare.catlinks.co.uk
+
+# 野兽
+DOMAIN,emby-us-v4.mius.uk
+DOMAIN,emby-fr-v6.mius.uk
+# DOMAIN,emby-us-v4.mius.uk
+
+# Misty
+DOMAIN,misty.cx
+
+# pilipili
+DOMAIN,stream_pilipili.misakaf.org
+DOMAIN,emby.pilipiliultra.com
+DOMAIN,emby.pilipiliultra.top
+
+# apop
+DOMAIN,emby.apopcloud.com
+DOMAIN,api.apopcloud.me
+
+
 DOMAIN-SUFFIX,sharepoint.com
+
+# 江湖
+DOMAIN,film.reddust.link
+IP-CIDR,140.238.31.45/32,no-resolve // Added for: 140.238.31.45:8096
+
+# micu
+# DOMAIN,tv.micu.hk
+DOMAIN,tv.micu.hk
+
+# MJJ
+DOMAIN,cf.mjjemby.org
+DOMAIN,direct.mjjemby.org
+
+# 太空人
+DOMAIN,emby.tkremby.xyz
+DOMAIN,tkremby.xyz
+
+# loser 垃圾影音
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN,new.xmsl.org
+DOMAIN,line.xmsl.org
+DOMAIN,pm.xmsl.org
+DOMAIN,hd.xmsl.org
+
+# loser机场服 tsunaminet
+DOMAIN,theatre-backend.tsunaminet.cc
+DOMAIN,theatre.tsunaminet.cc
+
+# Polo
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN,auto.polodns.xyz // Added for: auto.polodns.xyz:8610
+# DOMAIN,sf.poloemby.xyz // Added for: sf.poloemby.xyz:8610
+# DOMAIN,scf.poloemby.xyz // Added for: scf.poloemby.xyz:443
+# DOMAIN,kr.poloemby.xyz // Added for: kr.poloemby.xyz:41556
+# DOMAIN,auto.polodns.xyz // Added for: auto.polodns.xyz:8610
+
+# lyrebird 琴鸟
+DOMAIN,cdn.lyrebirdemby.com // Lyrebird-琴鸟
 DOMAIN,direct.lyrebirdemby.com // Lyrebird-琴鸟
 IP-CIDR,167.235.116.53/32,no-resolve // Lyrebird-琴鸟
-DOMAIN,stream.ntrrr.top // NTRRR
+
+# NTRRR
+DOMAIN,stream-direct.synn.cc // Added for: stream-direct.synn.cc:443
+DOMAIN,stream.synn.cc // Added for: stream.synn.cc:443
+DOMAIN,stream-zz.synn.cc // Added for: stream-zz.synn.cc:443
+DOMAIN-SUFFIX,stream.ntrrr.top // NTRRR
+DOMAIN-SUFFIX,jp-stream.ntrrr.top // NTRRR
+
+# Marmot
 DOMAIN,v.20120714.xyz // Marmot_Emby
+DOMAIN,if.20120714.xyz // Added for: if.20120714.xyz:443
+
+# 水母
 DOMAIN,ws1.jellyfin.asia // 水母
+
+# 小新
 DOMAIN-SUFFIX,881075.xyz // KSHT 小新
+
+# 尘烬
 DOMAIN,free.emby.eu.org // 尘烬
+
+# NMEmby
 DOMAIN,film.ohhhh.org // NMEmby
+
+# paul
 DOMAIN,cf.imetyou.top // paul_电报服
-DOMAIN,emby.lcloud.wiki // lend
+
+
+# 纸片人
 DOMAIN,embyplus.org // 纸片人小站
+
+# ash（卷毛鼠）
 DOMAIN,tv.ash.yt // ash（卷毛鼠）
-DOMAIN,bili.bili.rip
-DOMAIN,cdn.acemby.org
+
+# hxd
+DOMAIN,cf.bili.rip // Added for: cf.bili.rip:8443
+DOMAIN,bili.bili.rip // hxd
+
+# misakaf aca
 DOMAIN-SUFFIX,aca.best // ACA
-DOMAIN,789.123456.al // TreeDiagram
-DOMAIN,play.acemby.org
 DOMAIN-SUFFIX,misakaf.org // misakaf
 IP-CIDR,102.223.180.108/32,no-resolve // misakaf
-DOMAIN-SUFFIX,zox.show
-DOMAIN,free.poloemby.xyz // POLO_US
+
+# TreeDiagram
+DOMAIN,789.123456.al // TreeDiagram
+
+
+# TEmby
 DOMAIN,temby.285286.xyz // TEmby
 IP-CIDR,74.50.80.23/32,no-resolve // TEmby
+DOMAIN,temby4837.285286.xyz // TEmby
+# Emby end
