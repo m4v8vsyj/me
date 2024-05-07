@@ -1,0 +1,8 @@
+## Telegram DC1
+DOMAIN,pluto.web.telegram.org
+DOMAIN,pluto-1.web.telegram.org
+DOMAIN,kws1.web.telegram.org
+DOMAIN,kws1-1.web.telegram.org
+DOMAIN,zws1.web.telegram.org
+DOMAIN,zws1-1.web.telegram.org
+IP-ASN,59930,no-resolve // Data Center (🇺🇸US & 🇧🇷BR)
