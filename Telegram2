@@ -1,0 +1,8 @@
+## Telegram DC2
+DOMAIN,venus.web.telegram.org
+DOMAIN,venus-1.web.telegram.org
+DOMAIN,kws2.web.telegram.org
+DOMAIN,kws2-1.web.telegram.org
+DOMAIN,zws2.web.telegram.org
+DOMAIN,zws2-1.web.telegram.org
+IP-ASN,44907,no-resolve // Data Center (🇮🇳IN ➜ 🇪🇺EU)
