@@ -27,7 +27,7 @@ DOMAIN,kws3.web.telegram.org,US // WSS endpoints
 DOMAIN,kws3-1.web.telegram.org,US // WSS endpoints
 DOMAIN,zws3.web.telegram.org,US // WSS endpoints
 DOMAIN,zws3-1.web.telegram.org,US // WSS endpoints
-IP-ASN,211157,US,no-resolve // Data Center (🇷🇺RU ➜ 🇺🇸US)
+IP-ASN,21157,US,no-resolve // Data Center (🇷🇺RU ➜ 🇺🇸US)
 ## Telegram DC4
 DOMAIN,vesta.web.telegram.org,SG // HTTP endpoints
 DOMAIN,vesta-1.web.telegram.org,SG // HTTP endpoints
