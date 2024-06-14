@@ -1,7 +1,73 @@
 # Emby start
+# 大湾区jms
+DOMAIN,dyy.dawanqukun.top
+
+# 喜鹊
+DOMAIN,cdn10.magpie.bond
+DOMAIN,7.magpiecdn.tech
+DOMAIN,magpie.cyou
+DOMAIN,cdn01.magpie.bond
+
+# alphatv儿童
+DOMAIN,embyfw.alphatvapp.top
+
+# 叔服
+DOMAIN,emby3.mcjoker.xyz
+DOMAIN,jz.mcjoker.xyz
+
+# 大V
+DOMAIN,su.viclub.top
+
+# Nanflix
+DOMAIN,emby.tnx.one
+
+# 黑丝
+DOMAIN,i109.com
+DOMAIN,heisi.nekobox.best
+DOMAIN,h1.i109.com
+DOMAIN,h2.i109.com
+
+# 搬服
+DOMAIN,4837.955557.xyz
+DOMAIN,byg.955557.xyz
+DOMAIN,kr.955557.xyz
+DOMAIN,cfbyg.955557.xyz
+DOMAIN,us.955557.xyz
+
+# cbcb
+DOMAIN,emby.cbcb.lol
+DOMAIN,xgwc6.sharepoint.com
+
+# 终点站
+DOMAIN-SUFFIX,emby.wtf
+
+# loser大湾区
+DOMAIN,embyplay.dawanqukun.top
+DOMAIN,emby.dawanqukun.top
+
+# 阿甘
+DOMAIN,joker1.top
+
+
+# GUGU
+DOMAIN,main.gugu.media
+DOMAIN,pro.gugu.media
+
+# peach
+DOMAIN,embymv.tk
+IP-CIDR,193.123.232.141/32,no-resolve 
+IP-CIDR,168.138.45.100/32,no-resolve
+IP-CIDR,141.147.166.107/32,no-resolve
+
+# 特卡
+# DOMAIN-SUFFIX,carlos.trade
+DOMAIN,emby.carlos.trade
+DOMAIN,us.carlos.trade
+DOMAIN,cf.carlos.trade
 
 # 飞跃彩虹
-IP-CIDR,152.53.19.231/32,no-resolve // Added for: http://152.53.19.231:8096/System/Info
+DOMAIN,7777777.buzz
+DOMAIN,581658.best
 
 # cherrttv
 DOMAIN,cherrytv.one
@@ -9,6 +75,7 @@ DOMAIN,cherrytv.one
 # StarCat
 DOMAIN,cdsalw2lw.catlinks.co.uk
 DOMAIN,flare.catlinks.co.uk
+DOMAIN,ehsifohesiohgesfhrioe3.puddingcat.de
 
 # 野兽
 DOMAIN,emby-us-v4.mius.uk
@@ -27,20 +94,20 @@ DOMAIN,emby.pilipiliultra.top
 DOMAIN,emby.apopcloud.com
 DOMAIN,api.apopcloud.me
 
-
 DOMAIN-SUFFIX,sharepoint.com
 
 # 江湖
 DOMAIN,film.reddust.link
-IP-CIDR,140.238.31.45/32,no-resolve // Added for: 140.238.31.45:8096
+IP-CIDR,140.238.31.45/32,no-resolve
 
 # micu
 # DOMAIN,tv.micu.hk
 DOMAIN,tv.micu.hk
+DOMAIN,media.micu.hk
 
 # MJJ
-DOMAIN,cf.mjjemby.org
-DOMAIN,direct.mjjemby.org
+DOMAIN-SUFFIX,mjjemby.org
+# DOMAIN,direct.mjjemby.org
 
 # 太空人
 DOMAIN,emby.tkremby.xyz
@@ -53,71 +120,62 @@ DOMAIN,line.xmsl.org
 DOMAIN,pm.xmsl.org
 DOMAIN,hd.xmsl.org
 
-# loser机场服 tsunaminet
-DOMAIN,theatre-backend.tsunaminet.cc
-DOMAIN,theatre.tsunaminet.cc
-
 # Polo
 DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN,auto.polodns.xyz // Added for: auto.polodns.xyz:8610
-# DOMAIN,sf.poloemby.xyz // Added for: sf.poloemby.xyz:8610
-# DOMAIN,scf.poloemby.xyz // Added for: scf.poloemby.xyz:443
-# DOMAIN,kr.poloemby.xyz // Added for: kr.poloemby.xyz:41556
-# DOMAIN,auto.polodns.xyz // Added for: auto.polodns.xyz:8610
+DOMAIN,auto.polodns.xyz
 
 # lyrebird 琴鸟
-DOMAIN,cdn.lyrebirdemby.com // Lyrebird-琴鸟
-DOMAIN,direct.lyrebirdemby.com // Lyrebird-琴鸟
-IP-CIDR,167.235.116.53/32,no-resolve // Lyrebird-琴鸟
+DOMAIN,cdn.lyrebirdemby.com
+DOMAIN,direct.lyrebirdemby.com
+IP-CIDR,167.235.116.53/32,no-resolve
 
 # NTRRR
-DOMAIN,stream-direct.synn.cc // Added for: stream-direct.synn.cc:443
-DOMAIN,stream.synn.cc // Added for: stream.synn.cc:443
-DOMAIN,stream-zz.synn.cc // Added for: stream-zz.synn.cc:443
-DOMAIN-SUFFIX,stream.ntrrr.top // NTRRR
-DOMAIN-SUFFIX,jp-stream.ntrrr.top // NTRRR
+DOMAIN,stream-direct.synn.cc
+# DOMAIN,stream.synn.cc,NTRRR SYN
+# DOMAIN,stream-zz.synn.cc,NTRRR SYN
+DOMAIN-SUFFIX,stream.ntrrr.top,
+DOMAIN-SUFFIX,jp-stream.ntrrr.top
 
 # Marmot
-DOMAIN,v.20120714.xyz // Marmot_Emby
-DOMAIN,if.20120714.xyz // Added for: if.20120714.xyz:443
+DOMAIN,v.20120714.xyz
+DOMAIN,if.20120714.xyz
 
 # 水母
-DOMAIN,ws1.jellyfin.asia // 水母
+DOMAIN,ws1.jellyfin.asia
 
 # 小新
-DOMAIN-SUFFIX,881075.xyz // KSHT 小新
+DOMAIN-SUFFIX,881075.xyz
 
 # 尘烬
-DOMAIN,free.emby.eu.org // 尘烬
+DOMAIN,free.emby.eu.org
 
 # NMEmby
-DOMAIN,film.ohhhh.org // NMEmby
+DOMAIN,film.hovervan.org
 
 # paul
-DOMAIN,cf.imetyou.top // paul_电报服
-
+DOMAIN,cf.imetyou.top
 
 # 纸片人
-DOMAIN,embyplus.org // 纸片人小站
+DOMAIN,embyplus.org
 
 # ash（卷毛鼠）
-DOMAIN,tv.ash.yt // ash（卷毛鼠）
+DOMAIN,tv.ash.yt
 
 # hxd
-DOMAIN,cf.bili.rip // Added for: cf.bili.rip:8443
-DOMAIN,bili.bili.rip // hxd
+DOMAIN,cf.bili.rip
+DOMAIN,bili.bili.rip
 
 # misakaf aca
-DOMAIN-SUFFIX,aca.best // ACA
-DOMAIN-SUFFIX,misakaf.org // misakaf
-IP-CIDR,102.223.180.108/32,no-resolve // misakaf
+DOMAIN-SUFFIX,aca.best
+DOMAIN-SUFFIX,misakaf.org
+# DOMAIN-SUFFIX,cloudfront.net
+IP-CIDR,102.223.180.108/32,no-resolve
 
 # TreeDiagram
-DOMAIN,789.123456.al // TreeDiagram
-
+DOMAIN,789.123456.al
 
 # TEmby
-DOMAIN,temby.285286.xyz // TEmby
-IP-CIDR,74.50.80.23/32,no-resolve // TEmby
-DOMAIN,temby4837.285286.xyz // TEmby
+DOMAIN,temby.285286.xyz
+IP-CIDR,74.50.80.23/32,no-resolve
+DOMAIN,temby4837.285286.xyz
 # Emby end
