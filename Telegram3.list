@@ -5,4 +5,4 @@ DOMAIN,kws3.web.telegram.org // WSS endpoints
 DOMAIN,kws3-1.web.telegram.org // WSS endpoints
 DOMAIN,zws3.web.telegram.org // WSS endpoints
 DOMAIN,zws3-1.web.telegram.org // WSS endpoints
-IP-ASN,21157,no-resolve // Data Center (🇷🇺RU ➜ 🇺🇸US)
+IP-ASN,211157,no-resolve // Data Center (🇷🇺RU ➜ 🇺🇸US)
