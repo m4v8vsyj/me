@@ -1,181 +1,140 @@
 # Emby start
-# 大湾区jms
-DOMAIN,dyy.dawanqukun.top
+DOMAIN,yhemby.top // 飞跃银河
+DOMAIN,temby856.285286.xyz // tembybeta
+DOMAIN,by.mooguu.org // 蘑菇备用
+DOMAIN,ss.ianong.cn // 蘑菇
+DOMAIN,cf.sfcj.org // 非越
+DOMAIN,z.sfcj.org // 非越
+DOMAIN,cm.jingzihan.net // apop 压测服
+DOMAIN,emby.cn2gias.uk // 守候 gugu
+DOMAIN,oversea.alphatvapp.top // alphatvapp
+DOMAIN,emby.aladingnet.com // 阿拉丁
+DOMAIN-SUFFIX,aliz.work // hkaemby
+DOMAIN,emby.1024.name // 西瓜
+DOMAIN,emby.boaz.cf // plumber
+DOMAIN,tiancheng.boaz.cf // plumber
+DOMAIN,pornemby.maoxiong.cloud // 猫熊 pron
+DOMAIN,jsq.mooguu.top // 蘑菇-见手青
+DOMAIN,cdnemby.lilyya.xyz // lilyemby
+DOMAIN,cfemby.lilyya.xyz // lilyemby
+DOMAIN,emby.lilyya.xyz // lilyemby
+DOMAIN,emby.awatv.de // awa
+DOMAIN,vip3.jellyfin.asia // 阿拉丁-水母
+DOMAIN,us.886318.xyz // apoppro
+DOMAIN,cn.apopcloud.live // apoppro
+DOMAIN,robo.656888.xyz // robo
+DOMAIN,robo.668918.xyz // robo
+DOMAIN,ss.809688.xyz // ciji 德国
+DOMAIN,node1.guguemby.site // 测试线路 gugu
+DOMAIN-SUFFIX,micu.hk // Added for: tv.micu.hk:443
+DOMAIN,123456.buzz // DPX 海外
+OR,((DOMAIN-SUFFIX,123456.buzz), (DOMAIN-SUFFIX,1110111.top)) // DPX 直连
+DOMAIN,www.ikun.tv // Added for: www.ikun.tv:443
+DOMAIN-SUFFIX,tanhuatv.site // tanhua
+# charontv
+DOMAIN,play.charontv.com // Added for: play.charontv.com:443
 
-# 喜鹊
-DOMAIN,cdn10.magpie.bond
-DOMAIN,7.magpiecdn.tech
-DOMAIN,magpie.cyou
-DOMAIN,cdn01.magpie.bond
+# Cc
+DOMAIN,dl.carryz.net // Cc 播放线路
+DOMAIN,cc.coemn.com // Cc
+
+# Poker Emby
+DOMAIN,pk.catchyoureye.top // pokeremby jms
 
 # alphatv儿童
 DOMAIN,embyfw.alphatvapp.top
 
 # 叔服
-DOMAIN,emby3.mcjoker.xyz
-DOMAIN,jz.mcjoker.xyz
+DOMAIN,emby3.mcjoker.xyz // Added for: emby3.mcjoker.xyz:443
+DOMAIN,jz.mcjoker.xyz // Added for: jz.mcjoker.xyz:443
 
 # 大V
-DOMAIN,su.viclub.top
+DOMAIN,su.viclub.top // Added for: su.viclub.top:8090
 
 # Nanflix
-DOMAIN,emby.tnx.one
-
-# 黑丝
-DOMAIN,i109.com
-DOMAIN,heisi.nekobox.best
-DOMAIN,h1.i109.com
-DOMAIN,h2.i109.com
-
-# 搬服
-DOMAIN,4837.955557.xyz
-DOMAIN,byg.955557.xyz
-DOMAIN,kr.955557.xyz
-DOMAIN,cfbyg.955557.xyz
-DOMAIN,us.955557.xyz
-
-# cbcb
-DOMAIN,emby.cbcb.lol
-DOMAIN,xgwc6.sharepoint.com
+DOMAIN,emby.tnx.one // Nanflix
+DOMAIN,nanflix.net // Nanflix
 
 # 终点站
-DOMAIN-SUFFIX,emby.wtf
-
-# loser大湾区
-DOMAIN,embyplay.dawanqukun.top
-DOMAIN,emby.dawanqukun.top
-
-# 阿甘
-DOMAIN,joker1.top
-
+DOMAIN-SUFFIX,emby.wtf // Added for: pub1.emby.wtf:443
 
 # GUGU
-DOMAIN,main.gugu.media
-DOMAIN,pro.gugu.media
+DOMAIN,main.gugumedia.site
 
 # peach
 DOMAIN,embymv.tk
-IP-CIDR,193.123.232.141/32,no-resolve 
+IP-CIDR,193.123.232.141/32,no-resolve // 193.123.232.141:10000 peach
 IP-CIDR,168.138.45.100/32,no-resolve
-IP-CIDR,141.147.166.107/32,no-resolve
+IP-CIDR,141.147.166.107/32,no-resolve // Added for: 141.147.166.107:19798
 
 # 特卡
 # DOMAIN-SUFFIX,carlos.trade
-DOMAIN,emby.carlos.trade
+DOMAIN,emby.carlos.trade // Added for: emby.carlos.trade:8096
 DOMAIN,us.carlos.trade
 DOMAIN,cf.carlos.trade
+IP-CIDR,146.235.214.2/32,no-resolve // Added for: 146.235.214.2:12180
 
 # 飞跃彩虹
+DOMAIN,581658.best // Added for: 581658.best:443
+# MJJ
 DOMAIN,7777777.buzz
-DOMAIN,581658.best
-
-# cherrttv
-DOMAIN,cherrytv.one
 
 # StarCat
 DOMAIN,cdsalw2lw.catlinks.co.uk
 DOMAIN,flare.catlinks.co.uk
 DOMAIN,ehsifohesiohgesfhrioe3.puddingcat.de
-
-# 野兽
-DOMAIN,emby-us-v4.mius.uk
-DOMAIN,emby-fr-v6.mius.uk
-# DOMAIN,emby-us-v4.mius.uk
+DOMAIN,shuigawd921hfs-ef27893hrsf.catlinks.co.uk
 
 # Misty
-DOMAIN,misty.cx
+DOMAIN,misty.cx // Added for: misty.cx:443
 
 # pilipili
-DOMAIN,stream_pilipili.misakaf.org
-DOMAIN,emby.pilipiliultra.com
-DOMAIN,emby.pilipiliultra.top
+DOMAIN,pilipili.club // pilipili
+DOMAIN,stream_pilipili.misakaf.org // PiliPili播放线路
 
-# apop
-DOMAIN,emby.apopcloud.com
-DOMAIN,api.apopcloud.me
-
-DOMAIN-SUFFIX,sharepoint.com
-
-# 江湖
-DOMAIN,film.reddust.link
-IP-CIDR,140.238.31.45/32,no-resolve
-
-# micu
-# DOMAIN,tv.micu.hk
-DOMAIN,tv.micu.hk
-DOMAIN,media.micu.hk
-
-# MJJ
-DOMAIN-SUFFIX,mjjemby.org
-# DOMAIN,direct.mjjemby.org
-
-# 太空人
-DOMAIN,emby.tkremby.xyz
-DOMAIN,tkremby.xyz
+DOMAIN-SUFFIX,sharepoint.com // Added for: 0lh4n-my.sharepoint.com:443
 
 # loser 垃圾影音
-DOMAIN-SUFFIX,loseremby.org
-DOMAIN,new.xmsl.org
-DOMAIN,line.xmsl.org
-DOMAIN,pm.xmsl.org
-DOMAIN,hd.xmsl.org
+DOMAIN-SUFFIX,loseremby.org // loser
+DOMAIN,new.xmsl.org // loser
+DOMAIN,line.xmsl.org // loser
+DOMAIN,pm.xmsl.org // loser
+DOMAIN,hd.xmsl.org // loser 反代 cf美国
+DOMAIN,gfhd.19991998.xyz // hxd
 
 # Polo
-DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN,auto.polodns.xyz
+DOMAIN,fun.poloemby.xyz // polo
+DOMAIN,auto.polodns.xyz // Added for: auto.polodns.xyz:443
 
 # lyrebird 琴鸟
-DOMAIN,cdn.lyrebirdemby.com
-DOMAIN,direct.lyrebirdemby.com
-IP-CIDR,167.235.116.53/32,no-resolve
+DOMAIN,cdn.lyrebirdemby.com // Lyrebird-琴鸟
+DOMAIN,direct.lyrebirdemby.com // Lyrebird-琴鸟
+IP-CIDR,167.235.116.53/32,no-resolve // Lyrebird-琴鸟
 
 # NTRRR
-DOMAIN,stream-direct.synn.cc
-# DOMAIN,stream.synn.cc,NTRRR SYN
-# DOMAIN,stream-zz.synn.cc,NTRRR SYN
-DOMAIN-SUFFIX,stream.ntrrr.top,
-DOMAIN-SUFFIX,jp-stream.ntrrr.top
+DOMAIN-SUFFIX,stream.ntrrr.top // NTRRR
 
 # Marmot
-DOMAIN,v.20120714.xyz
-DOMAIN,if.20120714.xyz
+DOMAIN,v.20120714.xyz // Marmot_Emby
+DOMAIN,if.20120714.xyz // Added for: if.20120714.xyz:443
 
 # 水母
-DOMAIN,ws1.jellyfin.asia
-
-# 小新
-DOMAIN-SUFFIX,881075.xyz
-
-# 尘烬
-DOMAIN,free.emby.eu.org
-
-# NMEmby
-DOMAIN,film.hovervan.org
-
-# paul
-DOMAIN,cf.imetyou.top
-
-# 纸片人
-DOMAIN,embyplus.org
+DOMAIN,ws1.jellyfin.asia // 水母
 
 # ash（卷毛鼠）
-DOMAIN,tv.ash.yt
+DOMAIN,tv.ash.yt // ash（卷毛鼠）
 
 # hxd
-DOMAIN,cf.bili.rip
-DOMAIN,bili.bili.rip
+DOMAIN,hxd.as174.com // hxd
+DOMAIN,emby.as174.com // hxd
 
 # misakaf aca
-DOMAIN-SUFFIX,aca.best
-DOMAIN-SUFFIX,misakaf.org
-# DOMAIN-SUFFIX,cloudfront.net
-IP-CIDR,102.223.180.108/32,no-resolve
-
-# TreeDiagram
-DOMAIN,789.123456.al
+DOMAIN-SUFFIX,aca.best // ACA
+DOMAIN-SUFFIX,misakaf.org // misakaf
+IP-CIDR,102.223.180.108/32,no-resolve // misakaf
 
 # TEmby
-DOMAIN,temby.285286.xyz
-IP-CIDR,74.50.80.23/32,no-resolve
-DOMAIN,temby4837.285286.xyz
+DOMAIN,temby.285286.xyz// TEmby
+IP-CIDR,74.50.80.23/32,no-resolve // TEmby
+DOMAIN,temby4837.285286.xyz // TEmby
 # Emby end
