@@ -3,44 +3,102 @@
 
 
 [Rule]
-# Emby start
-# StarCat
-DOMAIN,cdsalw2lw.catlinks.co.uk,Emby US // Added for: cdsalw2lw.catlinks.co.uk:443
-DOMAIN,flare.catlinks.co.uk,Emby US // Added for: flare.catlinks.co.uk:443
 
-# 野兽
-DOMAIN,emby-us-v4.mius.uk,Emby US // Added for: emby-us-v4.mius.uk:8443
+# Emby start
+DOMAIN,yhemby.top,kr-jp 2 // 飞跃银河
+DOMAIN,temby856.285286.xyz,Emby SG // tembybeta
+DOMAIN,by.mooguu.org,DIRECT // 蘑菇备用
+DOMAIN,ss.ianong.cn,DIRECT // 蘑菇
+DOMAIN,cf.sfcj.org,Emby SG // 非越
+DOMAIN,z.sfcj.org,Emby SG // 非越
+DOMAIN,cm.jingzihan.net,DIRECT // apop 压测服
+DOMAIN,emby.cn2gias.uk,Emby US // 守候 gugu
+DOMAIN,oversea.alphatvapp.top,Emby HK // alphatvapp
+DOMAIN,emby.aladingnet.com,Emby HK // 阿拉丁
+DOMAIN-SUFFIX,aliz.work,Emby HK // hkaemby
+DOMAIN,emby.1024.name,Emby US // 西瓜
+DOMAIN,emby.boaz.cf,Emby SG // plumber
+DOMAIN,tiancheng.boaz.cf,Emby HK // plumber
+DOMAIN,pornemby.maoxiong.cloud,Emby US // 猫熊 pron
+DOMAIN,jsq.mooguu.top,Emby SG // 蘑菇-见手青
+DOMAIN,cdnemby.lilyya.xyz,DIRECT // lilyemby
+DOMAIN,cfemby.lilyya.xyz,Emby HK // lilyemby
+DOMAIN,emby.lilyya.xyz,Emby US // lilyemby
+DOMAIN,emby.awatv.de,kr-jp 2 // awa
+DOMAIN,vip3.jellyfin.asia,Emby HK // 阿拉丁-水母
+DOMAIN,us.886318.xyz,Emby HK // apoppro
+DOMAIN,cn.apopcloud.live,DIRECT // apoppro
+DOMAIN,robo.656888.xyz,DIRECT // robo
+DOMAIN,robo.668918.xyz,Emby HK // robo
+DOMAIN,ss.809688.xyz,Emby SG // ciji 德国
+DOMAIN,node1.guguemby.site,Emby US // 测试线路 gugu
+DOMAIN-SUFFIX,micu.hk,DIRECT // Added for: tv.micu.hk:443
+DOMAIN,123456.buzz,Emby HK // DPX 海外
+OR,((DOMAIN-SUFFIX,123456.buzz), (DOMAIN-SUFFIX,1110111.top)),DIRECT // DPX 直连
+DOMAIN,www.ikun.tv,Emby HK // Added for: www.ikun.tv:443
+DOMAIN-SUFFIX,tanhuatv.site,Emby US // tanhua
+# charontv
+DOMAIN,play.charontv.com,Emby HK // Added for: play.charontv.com:443
+
+# Cc
+DOMAIN,dl.carryz.net,Emby SG // Cc 播放线路
+DOMAIN,cc.coemn.com,Emby SG // Cc
+
+# Poker Emby
+DOMAIN,pk.catchyoureye.top,Emby SG // pokeremby jms
+
+# alphatv儿童
+DOMAIN,embyfw.alphatvapp.top,DIRECT
+
+# 叔服
+DOMAIN,emby3.mcjoker.xyz,Emby US // Added for: emby3.mcjoker.xyz:443
+DOMAIN,jz.mcjoker.xyz,DIRECT // Added for: jz.mcjoker.xyz:443
+
+# 大V
+DOMAIN,su.viclub.top,Emby HK // Added for: su.viclub.top:8090
+
+# Nanflix
+DOMAIN,emby.tnx.one,Emby SG // Nanflix
+DOMAIN,nanflix.net,Emby SG // Nanflix
+
+# 终点站
+DOMAIN-SUFFIX,emby.wtf,Emby SG // Added for: pub1.emby.wtf:443
+
+# GUGU
+DOMAIN,main.gugumedia.site,Emby HK
+
+# peach
+DOMAIN,embymv.tk,DIRECT
+IP-CIDR,193.123.232.141/32,Emby HK,no-resolve // 193.123.232.141:10000 peach
+IP-CIDR,168.138.45.100/32,Emby SG,no-resolve
+IP-CIDR,141.147.166.107/32,Emby SG,no-resolve // Added for: 141.147.166.107:19798
+
+# 特卡
+# DOMAIN-SUFFIX,carlos.trade,DIRECT
+DOMAIN,emby.carlos.trade,Emby US // Added for: emby.carlos.trade:8096
+DOMAIN,us.carlos.trade,Emby US
+DOMAIN,cf.carlos.trade,Emby SG
+IP-CIDR,146.235.214.2/32,Emby US,no-resolve // Added for: 146.235.214.2:12180
+
+# 飞跃彩虹
+DOMAIN,581658.best,Emby US // Added for: 581658.best:443
+# MJJ
+DOMAIN,7777777.buzz,Emby SG
+
+# StarCat
+DOMAIN,cdsalw2lw.catlinks.co.uk,Emby SG
+DOMAIN,flare.catlinks.co.uk,Emby US
+DOMAIN,ehsifohesiohgesfhrioe3.puddingcat.de,Emby SG
+DOMAIN,shuigawd921hfs-ef27893hrsf.catlinks.co.uk,Emby HK
 
 # Misty
-DOMAIN,misty.cx,Emby US // Added for: misty.cx:443
+DOMAIN,misty.cx,Emby SG // Added for: misty.cx:443
 
 # pilipili
+DOMAIN,pilipili.club,Emby HK // pilipili
 DOMAIN,stream_pilipili.misakaf.org,Emby US // PiliPili播放线路
-DOMAIN,emby.pilipiliultra.com,Emby US // PiliPili
-DOMAIN,emby.pilipiliultra.top,Emby US // PiliPili
-
-# apop
-DOMAIN,emby.apopcloud.com,DIRECT // Added for: emby.apopcloud.com:443
-DOMAIN,api.apopcloud.me,DIRECT // Added for: api.apopcloud.me:443
-
 
 DOMAIN-SUFFIX,sharepoint.com,Emby US // Added for: 0lh4n-my.sharepoint.com:443
-
-# 江湖
-DOMAIN,film.reddust.link,Emby US // 江湖
-IP-CIDR,140.238.31.45/32,Emby US,no-resolve // Added for: 140.238.31.45:8096
-
-# micu
-# DOMAIN,tv.micu.hk,Emby HK
-DOMAIN,tv.micu.hk,DIRECT
-
-# MJJ
-DOMAIN,cf.mjjemby.org,Emby US // Added for: cf.mjjemby.org:8080
-DOMAIN,direct.mjjemby.org,Emby US // Added for: direct.mjjemby.org:8080
-
-# 太空人
-DOMAIN,emby.tkremby.xyz,Emby US // Added for: emby.tkremby.xyz:2095
-DOMAIN,tkremby.xyz,Emby US // Added for: tkremby.xyz:2095
 
 # loser 垃圾影音
 DOMAIN-SUFFIX,loseremby.org,Emby US // loser
@@ -48,71 +106,44 @@ DOMAIN,new.xmsl.org,Emby US // loser
 DOMAIN,line.xmsl.org,Emby US // loser
 DOMAIN,pm.xmsl.org,DIRECT // loser
 DOMAIN,hd.xmsl.org,Emby US // loser 反代 cf美国
-
-# loser机场服 tsunaminet
-DOMAIN,theatre-backend.tsunaminet.cc,DIRECT // loser机场服
-DOMAIN,theatre.tsunaminet.cc,DIRECT // loser机场服
+DOMAIN,gfhd.19991998.xyz,Emby US // hxd
 
 # Polo
-DOMAIN-SUFFIX,poloemby.xyz,DIRECT // polo
-DOMAIN,auto.polodns.xyz,DIRECT // Added for: auto.polodns.xyz:8610
-# DOMAIN,sf.poloemby.xyz,DIRECT // Added for: sf.poloemby.xyz:8610
-# DOMAIN,scf.poloemby.xyz,DIRECT // Added for: scf.poloemby.xyz:443
-# DOMAIN,kr.poloemby.xyz,DIRECT // Added for: kr.poloemby.xyz:41556
-# DOMAIN,auto.polodns.xyz,DIRECT // Added for: auto.polodns.xyz:8610
+DOMAIN,fun.poloemby.xyz,Emby SG // polo
+DOMAIN,auto.polodns.xyz,Emby SG // Added for: auto.polodns.xyz:443
 
 # lyrebird 琴鸟
-DOMAIN,cdn.lyrebirdemby.com,Emby US // Lyrebird-琴鸟
+DOMAIN,cdn.lyrebirdemby.com,Emby HK // Lyrebird-琴鸟
 DOMAIN,direct.lyrebirdemby.com,Emby US // Lyrebird-琴鸟
 IP-CIDR,167.235.116.53/32,Emby US,no-resolve // Lyrebird-琴鸟
 
 # NTRRR
-DOMAIN,stream-direct.synn.cc,DIRECT // Added for: stream-direct.synn.cc:443
-DOMAIN,stream.synn.cc,NTRRR SYN // Added for: stream.synn.cc:443
-DOMAIN,stream-zz.synn.cc,NTRRR SYN // Added for: stream-zz.synn.cc:443
-DOMAIN-SUFFIX,ntrrr.top,Emby JP // NTRRR
+DOMAIN-SUFFIX,stream.ntrrr.top,kr-jp 2 // NTRRR
 
 # Marmot
-DOMAIN,v.20120714.xyz,Emby JP // Marmot_Emby
-DOMAIN,if.20120714.xyz,Emby JP // Added for: if.20120714.xyz:443
+DOMAIN,v.20120714.xyz,Emby SG // Marmot_Emby
+DOMAIN,if.20120714.xyz,Emby HK // Added for: if.20120714.xyz:443
 
 # 水母
 DOMAIN,ws1.jellyfin.asia,DIRECT // 水母
 
-# 小新
-DOMAIN-SUFFIX,881075.xyz,Emby US // KSHT 小新
-
-# 尘烬
-DOMAIN,free.emby.eu.org,Emby US // 尘烬
-
-# NMEmby
-DOMAIN,film.ohhhh.org,Emby US // NMEmby
-
-# paul
-DOMAIN,cf.imetyou.top,Emby US // paul_电报服
-
-
-# 纸片人
-DOMAIN,embyplus.org,Emby US // 纸片人小站
-
 # ash（卷毛鼠）
-DOMAIN,tv.ash.yt,Emby US // ash（卷毛鼠）
+DOMAIN,tv.ash.yt,Emby SG // ash（卷毛鼠）
 
 # hxd
-DOMAIN,cf.bili.rip,Emby US // Added for: cf.bili.rip:8443
-DOMAIN,bili.bili.rip,Emby US // hxd
+DOMAIN,hxd.as174.com,Emby SG // hxd
+DOMAIN,emby.as174.com,Emby SG // hxd
 
 # misakaf aca
 DOMAIN-SUFFIX,aca.best,Emby US // ACA
 DOMAIN-SUFFIX,misakaf.org,Emby US // misakaf
 IP-CIDR,102.223.180.108/32,Emby US,no-resolve // misakaf
 
-# TreeDiagram
-DOMAIN,789.123456.al,Emby US // TreeDiagram
-
-
 # TEmby
-DOMAIN,temby.285286.xyz,Emby US // TEmby
+DOMAIN,temby.285286.xyz,Emby HK // TEmby
 IP-CIDR,74.50.80.23/32,Emby US,no-resolve // TEmby
 DOMAIN,temby4837.285286.xyz,DIRECT // TEmby
+# Emby end
+
+
 # Emby end
