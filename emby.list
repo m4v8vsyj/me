@@ -134,7 +134,7 @@ DOMAIN-SUFFIX,misakaf.org // misakaf
 IP-CIDR,102.223.180.108/32,no-resolve // misakaf
 
 # TEmby
-DOMAIN,temby.285286.xyz// TEmby
+DOMAIN,temby.285286.xyz // TEmby
 IP-CIDR,74.50.80.23/32,no-resolve // TEmby
 DOMAIN,temby4837.285286.xyz // TEmby
 # Emby end
