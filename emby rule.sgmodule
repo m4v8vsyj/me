@@ -106,7 +106,7 @@ DOMAIN,new.xmsl.org,Emby US // loser
 DOMAIN,line.xmsl.org,Emby US // loser
 DOMAIN,pm.xmsl.org,DIRECT // loser
 DOMAIN,hd.xmsl.org,Emby US // loser 反代 cf美国
-DOMAIN,gfhd.19991998.xyz,Emby US // hxd
+
 
 # Polo
 DOMAIN,fun.poloemby.xyz,Emby SG // polo
@@ -143,7 +143,6 @@ IP-CIDR,102.223.180.108/32,Emby US,no-resolve // misakaf
 DOMAIN,temby.285286.xyz,Emby HK // TEmby
 IP-CIDR,74.50.80.23/32,Emby US,no-resolve // TEmby
 DOMAIN,temby4837.285286.xyz,DIRECT // TEmby
-# Emby end
 
 
 # Emby end
